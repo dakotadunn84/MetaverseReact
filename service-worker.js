@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MetaverseReact/precache-manifest.e7f13303f353217b48eb094561afbd54.js"
+  "/MetaverseReact/precache-manifest.711838a08e243f7a03f5c389a0ccfbcb.js"
 );
 
 workbox.clientsClaim();

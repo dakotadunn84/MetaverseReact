@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/MetaverseReact/static/media/logo.5d5d9eef.svg"
+    "revision": "eec7c7f60134e712ef7174c96ca7ee5a",
+    "url": "/MetaverseReact/static/media/logo.eec7c7f6.svg"
   },
   {
     "revision": "99888845fcd99122d625f81f870627cf",
@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/MetaverseReact/static/js/runtime~main.a379e65d.js"
   },
   {
-    "revision": "9f398834e2472af77f0b",
-    "url": "/MetaverseReact/static/js/main.9f398834.chunk.js"
+    "revision": "6323f5406a0b755e3b5d",
+    "url": "/MetaverseReact/static/js/main.6323f540.chunk.js"
   },
   {
     "revision": "f03e8ae863144a61c620",
     "url": "/MetaverseReact/static/js/1.f03e8ae8.chunk.js"
   },
   {
-    "revision": "9f398834e2472af77f0b",
-    "url": "/MetaverseReact/static/css/main.eed9b4fb.chunk.css"
+    "revision": "6323f5406a0b755e3b5d",
+    "url": "/MetaverseReact/static/css/main.baf39253.chunk.css"
   },
   {
-    "revision": "5d05dcda03afec4aa8eaaeaec743139f",
+    "revision": "41b952734e1c3069447d043884ecfb2b",
     "url": "/MetaverseReact/index.html"
   }
 ];
